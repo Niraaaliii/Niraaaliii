@@ -1,8 +1,7 @@
-### Hi there I'm Nirali 👋
-
-- 🔭 I’m currently working on my master's degree from University of Houston Clear Lake. I'm Planned to graduate Fall 2024.
-- 🌱 I’m currently learning full-stack development.
-- 👯 I’m looking to collaborate on back-end projects.
-- 📫 How to reach me: nirali.h.rathod@gmail.com or https://www.linkedin.com/in/nirali-rathod/
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have been trained for 3 years in classical singing when I was in school.
+### Hi there, I’m Nirali 👋
+	•	🔭 I recently graduated with my master’s degree in Management Information Systems from the University of Houston Clear Lake.
+	•	🌱 I want to transition into Data Engineering and am currently working on data projects.
+	•	👯 I would love to collaborate on exciting Data & ETL projects.
+	•	📫 How to reach me: nirali.h.rathod@gmail.com or LinkedIn
+	•	😄 Pronouns: she/her
+	•	⚡ Fun fact: I trained in classical singing for three years during school.
