@@ -6,4 +6,3 @@
 - 📫 How to reach me: nirali.h.rathod@gmail.com or https://www.linkedin.com/in/nirali-rathod/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have been trained for 3 years in classical singing when I was in school.
-- 👩🏻‍💻 Portfolio: https://niraaaliii.github.io/niralirathod-portfolio/
